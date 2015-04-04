@@ -7,6 +7,7 @@
     Author URI: https://github.com/jjrohrer
     Version: 0.0.2
     Depends:
+GitHub Plugin URI: https://github.com/jjrohrer/et_appchase_core_dynadev
 */
 class ClsDynaDev {
     /* Ok - acf is a littler confusing.  In your theme, if you make an 'acf-json', all of your configs will automatically
